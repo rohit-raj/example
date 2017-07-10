@@ -1,7 +1,7 @@
 {
     "csp-report":{
         "document-uri": "https://csp-report.com/",
-        "referrer": "https://google.com",
+        "referrer": "https://google.co.in",
         "violated-directive": "font-src"
     }
 }
